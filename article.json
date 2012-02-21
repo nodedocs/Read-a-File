@@ -9,5 +9,8 @@
 		    "url": "https://github.com/nicoreed"
       }
     ],
-    "difficulty":2
+    "difficulty":3,
+    "categories": [
+      ["File System"]
+    ]
 }
